@@ -35,7 +35,7 @@ p {
     max-width: 800px;
     background-color: #ffc0cb9c;
     width: 300px;
-    height: 283px;
+    height: 298px;
     border-radius: 15px;
     box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.349);
 }
@@ -73,4 +73,5 @@ input[type=submit] {
     box-shadow: none;
     border-color: #3b3a3a21;
     border-radius: 3.5px;
+    padding: 8px 0;
 }
